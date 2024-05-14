@@ -10,7 +10,7 @@ class HomeScreenTitle extends StatelessWidget {
       alignment: WrapAlignment.start,
       children: [
         Text(
-          "My Cart",
+          "My Bag",
           style: TextThemes.getTextStyle(
               fontSize: 30, fontWeight: FontWeight.bold),
         ),

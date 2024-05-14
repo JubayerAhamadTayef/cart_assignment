@@ -151,7 +151,7 @@ class _HomeScreenViewState extends State<HomeScreenView> {
         return AppAlertDialog(
           title: "Congratulations!",
           content:
-              "You have added \n5 ${contents[index].dressName.toString()}\n in your cart!",
+              "You have added \n5 ${contents[index].dressName.toString()}\n on your bag!",
           orientation: orientation,
         );
       },

@@ -39,9 +39,9 @@ List<CardData> contents = [
   ),
   CardData(
     dressName: "Shirt",
-    dressColor: "White",
+    dressColor: "Multi Color",
     dressSize: "L",
-    dressPrice: 100,
+    dressPrice: 10,
     dressImage: "assets/images/shirt.png",
     quantity: 1,
   )
